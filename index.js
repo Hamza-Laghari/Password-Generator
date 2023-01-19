@@ -32,9 +32,8 @@ function getRandomCharacter() {
 }
 
 
-function passLength(){
-    
-   alert("Ready to generate password!")
+function hamza(){
+    console.log("Button is working");
 }
 
 function generateRandomPassword() {
