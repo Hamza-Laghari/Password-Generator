@@ -191,6 +191,7 @@ border-radius: 6px;
         width: 140px;
         height: 40px;
         margin-top: 50px;
+       font-size: small;
         
     }
     #passLengthh{
@@ -201,6 +202,7 @@ border-radius: 6px;
         width: 140px;
         height: 40px;
         left: 180px;
+       font-size: small;
     }
     #submit{
         margin-top: 20px;
