@@ -76,7 +76,9 @@ function getRandomCharacter2() {
     let randomChar2 = Math.floor(Math.random() * characters.length)
     return characters[randomChar2]
 }
-
+function hamza(){
+console.log("This is to try the funciton")
+}
 
 
 
