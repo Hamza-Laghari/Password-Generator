@@ -6,7 +6,9 @@
     left: 230px;
   }
 
-  
+  .viu{
+    
+  }
 body {
 
     margin:auto;
@@ -42,6 +44,8 @@ left: 300px;
 top: 243px;
 
 background: #10B981;
+  /* shadow/sm */
+  
 }
 input{
 font-family: "Karla";
